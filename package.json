@@ -1,0 +1,8 @@
+{
+  "name": "mcmaster",
+  "version": "0.1",
+  "description": "A demo catalog website for teaching purposes.",
+  "main": "index.js",
+  "author": "DJ <metavolt@gmail.com>",
+  "license": "MIT"
+}
